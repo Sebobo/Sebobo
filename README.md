@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 About [me](https://www.helzle.it)
 
@@ -10,3 +10,8 @@ Funding options for my Open Source work:
 * On [Patreon](https://www.patreon.com/shelzle)
 * Currently via the Neos Media UI Rewrite [funding badges](https://neosfunding.sandstorm.de/en)
 
+## Videos
+
+### Neos CMS Media UI Rewrite
+
+* 📼 First development update video https://vimeo.com/437168075
